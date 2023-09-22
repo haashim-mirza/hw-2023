@@ -62,7 +62,7 @@ div {
 .yellow {
     background-color: #FFFF00;
     text-align: right;
-    border-right: 5px;
+    border-left: 5px;
     border-bottom: 2px;
     margin-left: 50px;
 }
